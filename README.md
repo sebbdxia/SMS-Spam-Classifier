@@ -15,10 +15,10 @@ Livrables
 * créer un/des notebook reproductible, commenté, expliqué (IMPORTANT !)
 * créer un repo git et un espace sur github/gitlab pour le projet (code refactorisé)
 * faire une présentation (slides) qui explique votre démarche et les résultats obtenus avec :
-- le fonctionnement global du classifieur
-- la procédure suivie pour préparer les données et le preprocessing
-- la procédure suivie pour trouver un modèle adapté
-- le modèle d'IA sélectionné
+    - le fonctionnement global du classifieur
+    - la procédure suivie pour préparer les données et le preprocessing
+    - la procédure suivie pour trouver un modèle adapté
+    - le modèle d'IA sélectionné
 
 BONUS :
 
