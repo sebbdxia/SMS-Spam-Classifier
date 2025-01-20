@@ -4,12 +4,13 @@ La collection SMS Spam est un ensemble de messages SMS marqués qui ont été co
 Rémi vous encourage à vous documenter sur les caractéristiques type des spam et de développer votre stratégie de préparation des données dans ce sens.
 
 En tant que développeur IA, voici les missions :
+
 - Analyse du besoin
 - Construction d'un pipeline de ML
 - Prétraitement des données
 - Entrainement, fine tuning, validation et sélection d'un modèle de classification
 
-- Livrables
+Livrables
 
 * créer un/des notebook reproductible, commenté, expliqué (IMPORTANT !)
 * créer un repo git et un espace sur github/gitlab pour le projet (code refactorisé)
@@ -20,6 +21,7 @@ En tant que développeur IA, voici les missions :
 - le modèle d'IA sélectionné
 
 BONUS :
+
 * Application streamlit qui fait de la prédiction en temps réel d'un message déposé par l'utilisateur
 * Autres fonctionnalités avancées
 
