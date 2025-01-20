@@ -23,7 +23,7 @@ BONUS :
 * Application streamlit qui fait de la prédiction en temps réel d'un message déposé par l'utilisateur
 * Autres fonctionnalités avancées
 
-* Critères de performance
+Critères de performance
 
 - compréhension du jeux de données
 - capacité à préparer les données
